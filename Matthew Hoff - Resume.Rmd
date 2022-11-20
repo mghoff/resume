@@ -16,14 +16,14 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-![Matthew G. Hoff](https://media-exp1.licdn.com/dms/image/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/0/1654775390538?e=1674691200&v=beta&t=izqYympa4f2Go3zVShs3QokrXwiVvOdQFw36KddR0N0){width=80%}
+![Matthew G. Hoff](https://media-exp1.licdn.com/dms/image/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/0/1654775390538?e=1674691200&v=beta&t=izqYympa4f2Go3zVShs3QokrXwiVvOdQFw36KddR0N0){width=100%}
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> matthew.g.hoff@gmail.com
-- <i class="fa fa-linkedin"></i> [linkedin.com/matthew-g-hoff](https://www.linkedin.com/in/matthew-g-hoff/)
+- <i class="fa fa-envelope"></i> [matthew.g.hoff@gmail](matthew.g.hoff@gmail.com)
+- <i class="fa fa-linkedin"></i> [linkedin.com/mghoff](https://www.linkedin.com/in/mghoff)
 - <i class="fa fa-github"></i> [github.com/mghoff](https://github.com/mghoff)
 - <i class="fa fa-phone"></i> +1 (330) 612-6785
 
@@ -31,16 +31,17 @@ Contact Info {#contact}
 Skills & Interests {#skills}
 --------------------------------------------------------------------------------
 
-- Data Science | Statistical Learning |
-Time Series | Machine Learning | 
-Slacklining | Kaggle | Data Viz |
-Prediction | Chess | GitHub         |
-Process Improvement |  Go |
-Mathematics | Handbalancing |
-Mapping | Rock Climbing |
-Automation | Movement |
+- \| Data Science | Statistics | R |
+<br></br> | Statistical Learning | Kaggle |
+<br></br> | Time Series | Mapping | Git |
+<br></br> | Automation | SAS | Shiny |
+<br></br> | Data Visualization | Python |
+<br></br> | Process Improvement |
+<br></br> | Mathematics | Forecasting |
+<br></br> | Simulation | Econometrics |
 
-- Highly skilled in R, SAS, Python, Git, & LaTeX
+- Highly skilled in R, Shiny, SAS, Git, & LaTeX with an analytics focus on
+time series & stochastic modeling of weather, energy, & pricing
 
 
 Main
@@ -60,17 +61,17 @@ Energy Harbor Corp.
 
 Akron, OH
 
-2021
+Present - 2021
 
-::: concise
-- Oversaw cloud migration & upgrade project of an on-premise database system (ZEMA) resulting in increased reliability
-- Developed & automated the reporting of various risk metrics concerning the Company's Commodities trade position
-- Developed & implemented an R Skills training course that increased analysts' proficiency
-- Locked down the Trade Confirmation Process, improving transparency & data integrity
-- Developed new methodology for creating price risk adders used by Structuring & Pricing
-- Converted & automated various reporting processes from QlikView to R thereby reducing time-to-completion by ~85%
-:::
-
+- Oversaw development of nuclear generation asset risk pricing model inherent in the company's
+application for the [DOE's Civil Nuclear Credit](https://www.energy.gov/gdo/civil-nuclear-credit-program) program
+- Managed seamless cloud migration of business-critical data warehouse: [ZEMA](https://www.ze.com/zema-solutions/)
+- Developed & automated the company's Financial Trade Position report
+- Developed, automated, & manage numerous risk metrics (VaR, GMaR, etc.) concerning the above financial position
+- Developed & implemented a weekly-held analyst-directed R Skills training course
+- Managed the completion & clean-up of the company's hedge confirmation backlog
+- Developed new methods for creating price risk adders for Structuring & Pricing
+- Converted all company QlikView processes to [R](https://www.r-project.org/)
 
 ### Data Scientist, Risk Management
 
@@ -80,8 +81,8 @@ Akron, OH
 
 2021 - 2020
 
-- Developed R package for interacting with Hitachi's TRMTracker API thereby enabling the creation & automation of data pipelines
-- Created automated data pipeline, reducing work-hours by ~10%
+- Developed custom R package for interacting with Hitachi's [TRMTracker](https://www.hitachienergy.com/us/en/products-and-solutions/energy-portfolio-management/trading-and-risk-management/trmtracker) API to enable the creation & automation of data pipelines
+- Created automated data pipeline between source systems (e.g. ZEMA) and the company's trade system of record (TRMTracker)
 
 
 ### Analyst, Regulated Settlements
@@ -92,8 +93,8 @@ Akron, OH
 
 2020 - 2019
 
-- Optimized daily data review process prior to PJM upload, reducing work-hours by ~20%
-- Automated daily data upload to PJM, further reducing work-hours and manual error potential
+- Optimized & automated daily PJM load settlements review & upload processes reducing work-hours by ~20%
+while eliminating the potential for manual data processing errors
 
 ### Analyst, Rates & Regulatory Affairs
 
@@ -103,13 +104,11 @@ Akron, OH
 
 2019 - 2015
 
-::: concise
-- Optimized the SAS-based Metered-but-Unbilled (MBU) accrual accounting process
-- Revolutionized the weather normalization methodology & process as part of the MBU
-- Developed & published the FirstEnergy Corp Data Science & Machine Learning "Playbook" for Executive Leadership
-- Board Member of the FirstEnergy "Quant Group"
-- Co-founder of the *Purpose, Power, & Perspective* Executive Leadership talking sessions
-:::
+- Optimized the month-end Metered-but-Unbilled (MBU) accounting process
+- Revolutionized the weather normalization methodology as part of the above MBU
+- Board Member of business resource group for quants: "The Quant Group"
+- Co-founder of the *Purpose, Power, & Perspective* Executive Leadership group
+- Developed & published the FirstEnergy Corp Data Science & Machine Learning Playbook for Executive Leadership
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------

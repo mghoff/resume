@@ -16,7 +16,7 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-![Matthew G. Hoff](https://media-exp1.licdn.com/dms/image/C4E03AQHcxJtQBlL7mQ/profile-displayphoto-shrink_800_800/0/1516891383926?e=1643846400&v=beta&t=sccbh0ttYbU1rrrehLVyJCGNizwwWcPvaJxuLr7Fbd4){width=80%}
+![Matthew G. Hoff](https://media-exp1.licdn.com/dms/image/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/0/1654775390538?e=1674691200&v=beta&t=izqYympa4f2Go3zVShs3QokrXwiVvOdQFw36KddR0N0){width=80%}
 
 
 Contact Info {#contact}

@@ -16,8 +16,7 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-![Matthew G. Hoff](https://media-exp1.licdn.com/dms/image/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/0/1654775390538?e=1674691200&v=beta&t=izqYympa4f2Go3zVShs3QokrXwiVvOdQFw36KddR0N0){width=100%}
-
+![Matthew G. Hoff](https://media.licdn.com/dms/image/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/0/1654775390538?e=1692230400&v=beta&t=hh7cXWAEmZn_J3hcfFKMX9VLG4t9zgPadJjJNrdHxxI){width=100%}
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -50,12 +49,12 @@ Main
 Matthew G. Hoff {#title}
 --------------------------------------------------------------------------------
 
-### Manager of Portfolio Risk & Analytics
+### Manager, Risk Control & Analytics
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Manager, Portfolio Risk & Analytics
+### Manager, Risk Control & Analytics
 
 Energy Harbor Corp.
 
@@ -66,14 +65,21 @@ Present - 2021
 - Oversaw development of nuclear generation asset risk pricing model inherent in the company's
 application for the [DOE's Civil Nuclear Credit](https://www.energy.gov/gdo/civil-nuclear-credit-program) program
 - Managed seamless cloud migration of business-critical data warehouse: [ZEMA](https://www.ze.com/zema-solutions/)
-- Developed & automated the company's Financial Trade Position report
-- Developed, automated, & manage numerous risk metrics (VaR, GMaR, etc.) concerning the above financial position
-- Developed & implemented a weekly-held analyst-directed R Skills training course
+- Initiated & oversaw the implementation of the Company's first
+version control system for internal, custom software development: [Enterprise GitHub](https://github.com/enterprise)
+- Initiated & oversaw the implementation of the Company's first
+Enterprise-level Integrated Development Environment (IDE) for internal, custom software development:
+[Posit Workbench](https://posit.co/products/enterprise/workbench/)
+- Leveraging GitHub & Posit Workbench, developed myriad interactive [Shiny](https://shiny.posit.co/) 
+dashboards for pricing, position, & risk reporting
+- Developed & automated the Company's Financial Trade report which summarizes daily the hedge portfolio's performance 
+by intention in terms of Mark-to-Market (MtM) and realized profit/losses (PnL)
+- Developed, automated, & manage numerous risk metrics (VaR, GMaR, etc.) concerning the above financial hedge position
+- Developed & implemented a weekly-held training course for R programming
 - Managed the completion & clean-up of the company's hedge confirmation backlog
 - Developed new methods for creating price risk adders for Structuring & Pricing
-- Converted all company QlikView processes to [R](https://www.r-project.org/)
 
-### Data Scientist, Risk Management
+### Analyst, Risk Management
 
 Energy Harbor Corp.
 
@@ -81,8 +87,9 @@ Akron, OH
 
 2021 - 2020
 
-- Developed custom R package for interacting with Hitachi's [TRMTracker](https://www.hitachienergy.com/us/en/products-and-solutions/energy-portfolio-management/trading-and-risk-management/trmtracker) API to enable the creation & automation of data pipelines
+- Created custom R package for interacting with Hitachi's [TRMTracker](https://www.hitachienergy.com/us/en/products-and-solutions/energy-portfolio-management/trading-and-risk-management/trmtracker) API to enable the creation & automation of data pipelines and reporting
 - Created automated data pipeline between source systems (e.g. ZEMA) and the company's trade system of record (TRMTracker)
+- Automated bid analysis processes for the annual Auction Revenue Rights (ARRs) auctions for both PJM & MISO RTOs
 
 
 ### Analyst, Regulated Settlements
@@ -109,6 +116,8 @@ Akron, OH
 - Board Member of business resource group for quants: "The Quant Group"
 - Co-founder of the *Purpose, Power, & Perspective* Executive Leadership group
 - Developed & published the FirstEnergy Corp Data Science & Machine Learning Playbook for Executive Leadership
+
+\newpage
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -149,7 +158,7 @@ Akron, OH
 
 2013
 
-::: aside
-- Made with R & [**pagedown**](https://github.com/rstudio/pagedown).
-- *Last updated on `r Sys.Date()`*
-:::
+<!-- ::: aside -->
+<!-- - Made with R & [**pagedown**](https://github.com/rstudio/pagedown). -->
+<!-- - *Last updated on `r Sys.Date()`* -->
+<!-- ::: -->

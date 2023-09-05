@@ -72,9 +72,9 @@ Enterprise-level Integrated Development Environment (IDE) for internal, custom s
 [Posit Workbench](https://posit.co/products/enterprise/workbench/)
 - Leveraging GitHub & Posit Workbench, developed myriad interactive [Shiny](https://shiny.posit.co/) 
 dashboards for pricing, position, & risk reporting
-- Developed & automated the Company's Financial Trade report which summarizes daily the hedge portfolio's performance 
-by intention in terms of Mark-to-Market (MtM) and realized profit/losses (PnL)
-- Developed, automated, & manage numerous risk metrics (VaR, GMaR, etc.) concerning the above financial hedge position
+- Developed & automated the Company's daily Financial Trade report, summarizing the hedging portfolio's performance
+in terms of Mark-to-Market (MtM) and realized profits/losses (PnL) and by intention
+- Developed, automated, & managed numerous risk metrics (VaR, GMaR, etc.) concerning the above financial hedge position
 - Developed & implemented a weekly-held training course for R programming
 - Managed the completion & clean-up of the company's hedge confirmation backlog
 - Developed new methods for creating price risk adders for Structuring & Pricing
@@ -88,7 +88,7 @@ Akron, OH
 2021 - 2020
 
 - Created custom R package for interacting with Hitachi's [TRMTracker](https://www.hitachienergy.com/us/en/products-and-solutions/energy-portfolio-management/trading-and-risk-management/trmtracker) API to enable the creation & automation of data pipelines and reporting
-- Created automated data pipeline between source systems (e.g. ZEMA) and the company's trade system of record (TRMTracker)
+- Created automated data pipeline between source systems (e.g. ZEMA) and the Company's trade system of record (TRMTracker)
 - Automated bid analysis processes for the annual Auction Revenue Rights (ARRs) auctions for both PJM & MISO RTOs
 
 
@@ -101,7 +101,7 @@ Akron, OH
 2020 - 2019
 
 - Optimized & automated daily PJM load settlements review & upload processes reducing work-hours by ~20%
-while eliminating the potential for manual data processing errors
+while all but eliminating the potential for manual data processing errors
 
 ### Analyst, Rates & Regulatory Affairs
 
@@ -111,11 +111,11 @@ Akron, OH
 
 2019 - 2015
 
-- Optimized the month-end Metered-but-Unbilled (MBU) accounting process
 - Revolutionized the weather normalization methodology as part of the above MBU
+- Optimized the month-end Metered-but-Unbilled (MBU) accounting process
 - Board Member of business resource group for quants: "The Quant Group"
 - Co-founder of the *Purpose, Power, & Perspective* Executive Leadership group
-- Developed & published the FirstEnergy Corp Data Science & Machine Learning Playbook for Executive Leadership
+- Developed & published the FirstEnergy Corp. Data Science & Machine Learning Playbook for Executive Leadership
 
 \newpage
 

@@ -16,7 +16,7 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-![Matthew G. Hoff](https://media.licdn.com/dms/image/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/0/1654775390538?e=1692230400&v=beta&t=hh7cXWAEmZn_J3hcfFKMX9VLG4t9zgPadJjJNrdHxxI){width=100%}
+![Matthew G. Hoff](https://media.licdn.com/dms/image/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/0/1654775390538?e=1699488000&v=beta&t=p7A8lFc7Y_2zg8lRql0DVRXQTNGKQ7vcDMvTIrIpb0I){width=100%}
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -74,9 +74,9 @@ Enterprise-level Integrated Development Environment (IDE) for internal, custom s
 dashboards for pricing, position, & risk reporting
 - Developed & automated the Company's daily Financial Trade report, summarizing the hedging portfolio's performance
 in terms of Mark-to-Market (MtM) and realized profits/losses (PnL) and by intention
-- Developed, automated, & managed numerous risk metrics (VaR, GMaR, etc.) concerning the above financial hedge position
+- Developed, automated, & managed numerous risk metrics (VaR, GMaR, etc.) concerning the financial hedge position
 - Developed & implemented a weekly-held training course for R programming
-- Managed the completion & clean-up of the company's hedge confirmation backlog
+- Managed the completion & clean-up of the Company's hedge confirmation backlog
 - Developed new methods for creating price risk adders for Structuring & Pricing
 
 ### Analyst, Risk Management

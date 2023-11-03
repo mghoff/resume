@@ -158,6 +158,19 @@ Akron, OH
 
 2013
 
+
+Software Publications {data-icon=file data-concise=true}
+--------------------------------------------------------------------------------
+
+### R Package: eia
+
+Available on [CRAN](https://cloud.r-project.org/web/packages/eia/index.html) with
+docs on [ROpenSci](https://docs.ropensci.org/eia/)
+
+Akron, OH
+
+2023
+
 <!-- ::: aside -->
 <!-- - Made with R & [**pagedown**](https://github.com/rstudio/pagedown). -->
 <!-- - *Last updated on `r Sys.Date()`* -->

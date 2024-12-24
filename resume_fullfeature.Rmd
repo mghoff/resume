@@ -1,0 +1,197 @@
+---
+title: "Resume - FullFeature"
+author: Matthew G. Hoff
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css:
+      - css/override.css
+      - resume
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+![Matthew G. Hoff](https://media.licdn.com/dms/image/v2/C5603AQFVuY8QMkD_mg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1654775396777?e=1738800000&v=beta&t=HerI2_yWe-4APKcnfdLXFXWSv8Ui6v02AkLA4_kvLLE){width=100%}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> [matthew.g.hoff@gmail](matthew.g.hoff@gmail.com)
+- <i class="fa fa-linkedin"></i> [linkedin.com/mghoff](https://www.linkedin.com/in/mghoff)
+- <i class="fa fa-github"></i> [github.com/mghoff](https://github.com/mghoff)
+- <i class="fa fa-phone"></i> +1 (330) 612-6785
+
+
+Skills & Interests {#skills}
+--------------------------------------------------------------------------------
+
+- Data Science | Statistics &
+<br></br> Statistical Machine Learning 
+<br></br> | Simulation | Forecasting |
+<br></br> Time Series | Econometrics |
+<br></br> Mathematics | Mapping |
+<br></br> Process Improvement |
+<br></br> DevOps | Automation | Git |
+<br></br> Data Visualization | Modeling
+<br></br> | R | Shiny | SAS | Go
+
+- Highly skilled in R, Shiny, SAS, Git, & LaTeX focus on time series &
+stochastic modeling of weather, energy, and financial derivatives pricing
+
+Main
+================================================================================
+
+Matthew G. Hoff {#title}
+--------------------------------------------------------------------------------
+
+### Sr. Financial Technology Consultant
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Sr. Consultant, Digital Solutions
+
+Burns & McDonnell
+
+Akron, OH
+
+Present - 2024
+
+- Quickly learned the team's software development infrastructure (Oracle APEX, Git, Liquibase)
+and took ownership over the team's development life cycle process
+- Educated the team on software development life cycle best practices
+- Developed and implemented a simplified development life cycle process by migrating
+away from a developer-centric branch-based process to a trunk-based process that better
+integrates with the team's chosen infrastructure
+
+
+### Manager, Risk Control & Analytics
+
+Energy Harbor Corp.
+
+Akron, OH
+
+2024 - 2021
+
+- Oversaw development of nuclear generation asset risk pricing model inherent in the company's
+application for the [DOE's Civil Nuclear Credit](https://www.energy.gov/gdo/civil-nuclear-credit-program) program
+- Managed seamless cloud migration of business-critical data warehouse: [ZEMA](https://www.ze.com/zema-solutions/)
+- Initiated & oversaw the implementation of the Company's first
+version control system for internal custom software development: [Enterprise GitHub](https://github.com/enterprise)
+- Initiated & oversaw the implementation of the Company's first
+Enterprise-level Integrated Development Environment (IDE) for internal, custom software development:
+[Posit Workbench](https://posit.co/products/enterprise/workbench/)
+- Leveraging GitHub & Posit Workbench, developed myriad interactive [Shiny](https://shiny.posit.co/) 
+reporting dashboards for pricing and position valuation & risk
+- Developed & automated the Company's daily Financial Trade report, summarizing the hedging portfolio's performance
+in terms of Mark-to-Market (MtM) and realized profits and losses (PnL)
+- Developed, automated, and managed risk metrics (VaR, GMaR, etc.) concerning the financial hedge position
+- Developed and implemented a weekly-held training course for R programming
+- Managed the clean-up and reconciliation of the Company's hedge confirmations backlog
+- Developed new methods for creating price risk adders for the Structuring & Pricing group
+
+
+### Analyst, Risk Management
+
+Energy Harbor Corp.
+
+Akron, OH
+
+2021 - 2020
+
+- Created custom R package for interacting with Hitachi's [TRMTracker](https://www.hitachienergy.com/us/en/products-and-solutions/energy-portfolio-management/trading-and-risk-management/trmtracker)
+API to enable the creation & automation of data pipelines and reporting
+- Created automated data pipeline between source systems (e.g. ZEMA) and the Company's trade system of record (TRMTracker)
+- Optimized and automated the bid analysis processes for 1.) the annual Auction Revenue Rights (ARRs) auctions to 2.) underpin the Company's
+Financial Transmission Rights (FTRs) holdings within the PJM and MISO ISOs
+
+
+### Analyst, Regulated Settlements
+
+FirstEnergy Corp.
+
+Akron, OH
+
+2020 - 2019
+
+- Optimized & automated daily PJM load settlements review & upload processes reducing work-hours by ~20%
+while all but eliminating the potential for manual data processing errors
+
+
+### Analyst, Rates & Regulatory Affairs
+
+FirstEnergy Corp.
+
+Akron, OH
+
+2019 - 2015
+
+- Revolutionized the weather normalization methodology as part of the above MBU
+- Optimized the month-end Metered-but-Unbilled (MBU) accounting process
+- Board Member of business resource group for quants: "The Quant Group"
+- Co-founder of the *Purpose, Power, & Perspective* Executive Leadership group
+- Developed & published the FirstEnergy Corp. Data Science & Machine Learning Playbook for Executive Leadership
+
+<!-- \newpage -->
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Economic Forecasting & Time Series Analysis in R
+
+Assistant Lecturer, *The University of Akron*
+
+Akron, OH
+
+2019 - 2017
+
+### Econometrics & Senior Project
+
+Graduate Teaching Assistant, *The University of Akron*
+
+Akron, OH
+
+2014 - 2013
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Master of Arts, Economics
+
+The University of Akron
+
+Akron, OH
+
+2014
+
+### Bachelor of Sciences, Mathematics
+
+The University of Akron
+
+Akron, OH
+
+2013
+
+
+Software Publications {data-icon=file data-concise=true}
+--------------------------------------------------------------------------------
+
+### R Package: eia
+
+Available on [CRAN](https://cloud.r-project.org/web/packages/eia/index.html) with
+docs on [ROpenSci](https://docs.ropensci.org/eia/)
+
+Akron, OH
+
+2023
+
+<!-- ::: aside -->
+<!-- - Made with R & [**pagedown**](https://github.com/rstudio/pagedown). -->
+<!-- - *Last updated on `r Sys.Date()`* -->
+<!-- ::: -->
